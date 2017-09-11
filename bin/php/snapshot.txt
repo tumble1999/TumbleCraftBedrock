@@ -1,0 +1,136 @@
+This snapshot was automatically generated on
+Mon, 11 Sep 2017 09:06:46 +0000
+
+Version: 7.2.0RC1
+Branch: HEAD
+Build: C:\pocketmine-php-sdk\php-src\x64\Release_TS
+
+Built-in Extensions
+===========================
+Core
+bcmath
+calendar
+ctype
+date
+filter
+hash
+iconv
+json
+mcrypt
+SPL
+pcre
+readline
+Reflection
+session
+standard
+mysqlnd
+tokenizer
+zip
+zlib
+libxml
+dom
+PDO
+openssl
+SimpleXML
+xml
+wddx
+xmlreader
+xmlwriter
+curl
+ftp
+sqlite3
+Phar
+mbstring
+mysqli
+
+
+Dependency information:
+Module: php7ts.dll
+===========================
+	libssh2.dll
+	nghttp2.dll
+	libcrypto-1_1-x64.dll
+	libssl-1_1-x64.dll
+	normaliz.dll
+	pthreadvc2.dll
+	iphlpapi.dll
+	libsodium.dll
+	yaml.dll
+	dnsapi.dll
+	bcrypt.dll
+	vcruntime140.dll
+	api-ms-win-crt-heap-l1-1-0.dll
+	api-ms-win-crt-runtime-l1-1-0.dll
+	api-ms-win-crt-convert-l1-1-0.dll
+	api-ms-win-crt-string-l1-1-0.dll
+	api-ms-win-crt-stdio-l1-1-0.dll
+	api-ms-win-crt-environment-l1-1-0.dll
+	api-ms-win-crt-math-l1-1-0.dll
+	api-ms-win-crt-filesystem-l1-1-0.dll
+	api-ms-win-crt-time-l1-1-0.dll
+	api-ms-win-crt-locale-l1-1-0.dll
+	api-ms-win-crt-utility-l1-1-0.dll
+
+Module: php.exe
+===========================
+	vcruntime140.dll
+	api-ms-win-crt-heap-l1-1-0.dll
+	api-ms-win-crt-runtime-l1-1-0.dll
+	api-ms-win-crt-stdio-l1-1-0.dll
+	api-ms-win-crt-environment-l1-1-0.dll
+	api-ms-win-crt-string-l1-1-0.dll
+	api-ms-win-crt-utility-l1-1-0.dll
+	api-ms-win-crt-convert-l1-1-0.dll
+	api-ms-win-crt-time-l1-1-0.dll
+	api-ms-win-crt-math-l1-1-0.dll
+	api-ms-win-crt-locale-l1-1-0.dll
+
+Module: php_gd2.dll
+===========================
+	vcruntime140.dll
+	api-ms-win-crt-heap-l1-1-0.dll
+	api-ms-win-crt-stdio-l1-1-0.dll
+	api-ms-win-crt-math-l1-1-0.dll
+	api-ms-win-crt-string-l1-1-0.dll
+	api-ms-win-crt-utility-l1-1-0.dll
+	api-ms-win-crt-runtime-l1-1-0.dll
+	api-ms-win-crt-environment-l1-1-0.dll
+	api-ms-win-crt-filesystem-l1-1-0.dll
+	api-ms-win-crt-convert-l1-1-0.dll
+	api-ms-win-crt-locale-l1-1-0.dll
+
+Module: php_openssl.dll
+===========================
+	libcrypto-1_1-x64.dll
+	libssl-1_1-x64.dll
+	vcruntime140.dll
+	api-ms-win-crt-heap-l1-1-0.dll
+	api-ms-win-crt-convert-l1-1-0.dll
+	api-ms-win-crt-environment-l1-1-0.dll
+	api-ms-win-crt-time-l1-1-0.dll
+	api-ms-win-crt-string-l1-1-0.dll
+	api-ms-win-crt-runtime-l1-1-0.dll
+	api-ms-win-crt-math-l1-1-0.dll
+
+Module: php_pocketmine_chunkutils.dll
+===========================
+	vcruntime140.dll
+	api-ms-win-crt-runtime-l1-1-0.dll
+
+Module: php_sqlite3.dll
+===========================
+	vcruntime140.dll
+	api-ms-win-crt-heap-l1-1-0.dll
+	api-ms-win-crt-string-l1-1-0.dll
+	api-ms-win-crt-utility-l1-1-0.dll
+	api-ms-win-crt-time-l1-1-0.dll
+	api-ms-win-crt-runtime-l1-1-0.dll
+	api-ms-win-crt-math-l1-1-0.dll
+
+Module: php_mysqli.dll
+===========================
+	vcruntime140.dll
+	api-ms-win-crt-heap-l1-1-0.dll
+	api-ms-win-crt-string-l1-1-0.dll
+	api-ms-win-crt-runtime-l1-1-0.dll
+
