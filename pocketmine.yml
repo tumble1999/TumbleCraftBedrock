@@ -97,7 +97,7 @@ debug:
  level: 1
  #Enables /status, /gc
  commands: false
- 
+
 player:
  #Choose whether to enable player data saving.
  save-player-data: true
@@ -109,7 +109,8 @@ player:
 
 level-settings:
  #The default format that levels will use when created
- default-format: pmanvil
+ #default-format: pmanvil
+ default-format: leveldb
  #Automatically change levels tick rate to maintain 20 ticks per second
  auto-tick-rate: true
  auto-tick-rate-limit: 20
