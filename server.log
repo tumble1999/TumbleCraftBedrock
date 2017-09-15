@@ -506,3 +506,5 @@
 2017-09-15 [20:38:25] [Server thread/INFO]: Done (1.945s)! For help, type "help" or "?"
 2017-09-15 [20:47:20] [Server thread/INFO]: TumbleGamer[/192.168.0.49:46238] logged in with entity id 1 at (world, 249.2332, 69, 237.7195)
 2017-09-15 [20:47:25] [Server thread/INFO]: TumbleGamer joined the game
+2017-09-15 [20:48:45] [Server thread/INFO]: TumbleGamer left the game
+2017-09-15 [20:48:45] [Server thread/INFO]: TumbleGamer[/192.168.0.49:46238] logged out due to timeout
