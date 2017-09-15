@@ -6,3 +6,12 @@
 2017-09-15 [18:50:56] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev "[REDACTED]" (API 3.0.0-ALPHA7)
 2017-09-15 [18:50:56] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
 2017-09-15 [18:50:57] [Server thread/INFO]: Loading recipes...
+2017-09-15 [18:50:57] [Server thread/INFO]: Loading resource packs...
+2017-09-15 [18:50:57] [Server thread/NOTICE]: Level "world" not found
+2017-09-15 [18:50:58] [Server thread/INFO]: Preparing level "world"
+2017-09-15 [18:50:58] [Server thread/NOTICE]: Spawn terrain for level "world" is being generated in the background
+2017-09-15 [18:50:58] [Server thread/INFO]: Starting GS4 status listener
+2017-09-15 [18:50:58] [Server thread/INFO]: Setting query port to 19132
+2017-09-15 [18:50:58] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-15 [18:50:58] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-15 [18:50:58] [Server thread/INFO]: Done (5.537s)! For help, type "help" or "?"
