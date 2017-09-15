@@ -4,8 +4,8 @@ title GitHub Auto Save
 ping localhost>nul
 git fetch
 git status
-git pull
 git add .
 git commit -m "server auto-save"
+git pull
 git push
 goto :loop
