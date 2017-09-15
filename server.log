@@ -15,3 +15,5 @@
 2017-09-15 [18:50:58] [Server thread/INFO]: Query running on 0.0.0.0:19132
 2017-09-15 [18:50:58] [Server thread/INFO]: Default game type: Survival Mode
 2017-09-15 [18:50:58] [Server thread/INFO]: Done (5.537s)! For help, type "help" or "?"
+2017-09-15 [18:51:46] [Server thread/NOTICE]: Player data not found for "tumblegamer", creating new profile
+2017-09-15 [18:51:50] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged in with entity id 1 at (world, 256, 69, 256)
