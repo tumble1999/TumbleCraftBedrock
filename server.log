@@ -473,3 +473,20 @@
 2017-09-15 [20:33:16] [Server thread/INFO]: Query running on 0.0.0.0:19132
 2017-09-15 [20:33:16] [Server thread/INFO]: Default game type: Survival Mode
 2017-09-15 [20:33:16] [Server thread/INFO]: Done (3.767s)! For help, type "help" or "?"
+2017-09-15 [20:38:17] [Server thread/CRITICAL]: ErrorException: "file_put_contents(C:\Users\camtr_000\Documents\GitHub\TumbleCraftBedrock\worlds/world/level.dat): failed to open stream: No such file or directory" (EXCEPTION) in "src/pocketmine/level/format/io/BaseLevelProvider" at line 130
+2017-09-15 [20:38:17] [Server thread/DEBUG]: #0 (): pocketmine\{closure}(integer 2, string file_put_contents(C:\Users\camtr_000\Documents\GitHub\TumbleCraftBedrock\worlds/world/level.dat): failed to open stream: No such file or directory, string phar://C:/Users/camtr_000/Documents/GitHub/TumbleCraftBedrock/PocketMine-MP.phar/src/pocketmine/level/format/io/BaseLevelProvider.php, integer 130, array Array())
+2017-09-15 [20:38:17] [Server thread/DEBUG]: #1 src/pocketmine/level/format/io/BaseLevelProvider(130): file_put_contents(string C:\Users\camtr_000\Documents\GitHub\TumbleCraftBedrock\worlds/world/level.dat, string ..........M.Qn.0.D'"P.......*.AU.G.U.*...9.(\....2=.?.DY.A./..x.6.2.9EJ.V.........h......5...M..u0.`......j.......m.....W.<.fy..m..~E.rj...lN.M..O...R~...G..../.>.@.........M...R..&.g.0.q>.?z......?.....B.....bw.............:.*.+...)
+2017-09-15 [20:38:17] [Server thread/DEBUG]: #2 src/pocketmine/level/Level(951): pocketmine\level\format\io\BaseLevelProvider->saveLevelData()
+2017-09-15 [20:38:17] [Server thread/DEBUG]: #3 src/pocketmine/Server(2383): pocketmine\level\Level->save(boolean )
+2017-09-15 [20:38:17] [Server thread/DEBUG]: #4 src/pocketmine/Server(2526): pocketmine\Server->doAutoSave()
+2017-09-15 [20:38:17] [Server thread/DEBUG]: #5 src/pocketmine/Server(2238): pocketmine\Server->tick()
+2017-09-15 [20:38:17] [Server thread/DEBUG]: #6 src/pocketmine/Server(2117): pocketmine\Server->tickProcessor()
+2017-09-15 [20:38:17] [Server thread/DEBUG]: #7 src/pocketmine/Server(1699): pocketmine\Server->start()
+2017-09-15 [20:38:17] [Server thread/DEBUG]: #8 src/pocketmine/PocketMine(541): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string phar://C:/Users/camtr_000/Documents/GitHub/TumbleCraftBedrock/PocketMine-MP.phar/, string C:\Users\camtr_000\Documents\GitHub\TumbleCraftBedrock\, string C:\Users\camtr_000\Documents\GitHub\TumbleCraftBedrock\plugins\)
+2017-09-15 [20:38:17] [Server thread/DEBUG]: #9 C:/Users/camtr_000/Documents/GitHub/TumbleCraftBedrock/PocketMine-MP.phar(1): require_once(string phar://C:/Users/camtr_000/Documents/GitHub/TumbleCraftBedrock/PocketMine-MP.phar/src/pocketmine/PocketMine.php)
+2017-09-15 [20:38:17] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2017-09-15 [20:38:17] [Server thread/EMERGENCY]: Please upload the "C:\Users\camtr_000\Documents\GitHub\TumbleCraftBedrock\crashdumps/Fri_Sep_15-20.38.17-GMT_2017.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2017-09-15 [20:38:17] [Server thread/INFO]: Unloading level "world"
+2017-09-15 [20:38:24] [Server thread/INFO]: Loading pocketmine.yml...
+2017-09-15 [20:38:24] [Server thread/INFO]: Loading server properties...
+2017-09-15 [20:38:24] [Server thread/INFO]: Selected English (eng) as the base language
