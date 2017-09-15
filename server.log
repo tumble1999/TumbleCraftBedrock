@@ -20,3 +20,172 @@
 2017-09-15 [18:51:56] [Server thread/INFO]: TumbleGamer joined the game
 2017-09-15 [18:52:12] [Server thread/INFO]: TumbleGamer left the game
 2017-09-15 [18:52:13] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged out due to client disconnect
+2017-09-15 [18:53:31] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2017-09-15 [18:53:31] [Server thread/INFO]: Unloading level "world"
+2017-09-15 [18:53:37] [Server thread/INFO]: Stopping other threads
+2017-09-15 [18:53:46] [Server thread/INFO]: Loading pocketmine.yml...
+2017-09-15 [18:53:46] [Server thread/INFO]: Loading server properties...
+2017-09-15 [18:53:46] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-15 [18:53:46] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.0.31 beta
+2017-09-15 [18:53:46] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-15 [18:53:46] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev "[REDACTED]" (API 3.0.0-ALPHA7)
+2017-09-15 [18:53:46] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-09-15 [18:53:46] [Server thread/INFO]: Loading recipes...
+2017-09-15 [18:53:46] [Server thread/INFO]: Loading resource packs...
+2017-09-15 [18:53:47] [Server thread/INFO]: Preparing level "world"
+2017-09-15 [18:53:47] [Server thread/INFO]: Starting GS4 status listener
+2017-09-15 [18:53:47] [Server thread/INFO]: Setting query port to 19132
+2017-09-15 [18:53:47] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-15 [18:53:47] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-15 [18:53:47] [Server thread/INFO]: Done (1.508s)! For help, type "help" or "?"
+2017-09-15 [18:56:12] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged in with entity id 1 at (world, 255.7, 69, 256.3)
+2017-09-15 [18:56:13] [Server thread/INFO]: TumbleGamer joined the game
+2017-09-15 [18:56:21] [Server thread/INFO]: TumbleGamer left the game
+2017-09-15 [18:56:21] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged out due to client disconnect
+2017-09-15 [18:57:05] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged out due to client disconnect
+2017-09-15 [18:57:39] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2017-09-15 [18:57:39] [Server thread/INFO]: Unloading level "world"
+2017-09-15 [18:57:44] [Server thread/INFO]: Stopping other threads
+2017-09-15 [18:57:53] [Server thread/INFO]: Loading pocketmine.yml...
+2017-09-15 [18:57:53] [Server thread/INFO]: Loading server properties...
+2017-09-15 [18:57:53] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-15 [18:57:53] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.0.31 beta
+2017-09-15 [18:57:53] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-15 [18:57:54] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev "[REDACTED]" (API 3.0.0-ALPHA7)
+2017-09-15 [18:57:54] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-09-15 [18:57:54] [Server thread/INFO]: Loading recipes...
+2017-09-15 [18:57:55] [Server thread/INFO]: Loading resource packs...
+2017-09-15 [18:57:55] [Server thread/INFO]: Preparing level "world"
+2017-09-15 [18:57:55] [Server thread/INFO]: Starting GS4 status listener
+2017-09-15 [18:57:55] [Server thread/INFO]: Setting query port to 19132
+2017-09-15 [18:57:55] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-15 [18:57:55] [Server thread/INFO]: [UPnP] Trying to port forward...
+2017-09-15 [18:57:55] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-15 [18:57:55] [Server thread/INFO]: Done (2.089s)! For help, type "help" or "?"
+2017-09-15 [18:58:10] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged in with entity id 1 at (world, 255.7, 69, 256.3)
+2017-09-15 [18:58:12] [Server thread/INFO]: TumbleGamer joined the game
+2017-09-15 [18:58:36] [Server thread/INFO]: TumbleGamer left the game
+2017-09-15 [18:58:36] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged out due to client disconnect
+2017-09-15 [18:59:23] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2017-09-15 [18:59:29] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2017-09-15 [18:59:29] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2017-09-15 [18:59:29] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2017-09-15 [18:59:29] [Server thread/INFO]: /banlist: View all players banned from this server
+2017-09-15 [18:59:29] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2017-09-15 [18:59:29] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2017-09-15 [18:59:29] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2017-09-15 [18:59:29] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2017-09-15 [18:59:29] [Server thread/INFO]: /enchant: Adds enchantments on items
+2017-09-15 [18:59:29] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2017-09-15 [18:59:29] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2017-09-15 [18:59:29] [Server thread/INFO]: /help: Shows the help menu
+2017-09-15 [18:59:29] [Server thread/INFO]: /kick: Removes the specified player from the server
+2017-09-15 [18:59:29] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2017-09-15 [18:59:29] [Server thread/INFO]: /list: Lists all online players
+2017-09-15 [18:59:29] [Server thread/INFO]: /me: Performs the specified action in chat
+2017-09-15 [18:59:29] [Server thread/INFO]: /op: Gives the specified player operator status
+2017-09-15 [18:59:29] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2017-09-15 [18:59:29] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2017-09-15 [18:59:29] [Server thread/INFO]: /particle: Adds particles to a world
+2017-09-15 [18:59:29] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2017-09-15 [18:59:29] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2017-09-15 [18:59:29] [Server thread/INFO]: /save-all: Saves the server to disk
+2017-09-15 [18:59:29] [Server thread/INFO]: /save-off: Disables server autosaving
+2017-09-15 [18:59:29] [Server thread/INFO]: /save-on: Enables server autosaving
+2017-09-15 [18:59:29] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2017-09-15 [18:59:29] [Server thread/INFO]: /seed: Shows the world seed
+2017-09-15 [18:59:29] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2017-09-15 [18:59:29] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2017-09-15 [18:59:29] [Server thread/INFO]: /stop: Stops the server
+2017-09-15 [18:59:29] [Server thread/INFO]: /tell: Sends a private message to the given player
+2017-09-15 [18:59:29] [Server thread/INFO]: /time: Changes the time on each world
+2017-09-15 [18:59:29] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2017-09-15 [18:59:29] [Server thread/INFO]: /title: %pocketmine.command.title.description
+2017-09-15 [18:59:29] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2017-09-15 [18:59:29] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2017-09-15 [18:59:29] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2017-09-15 [18:59:29] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2017-09-15 [19:00:03] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2017-09-15 [19:00:03] [Server thread/INFO]: [UPnP] Removing port forward...
+2017-09-15 [19:00:03] [Server thread/INFO]: Unloading level "world"
+2017-09-15 [19:00:09] [Server thread/INFO]: Stopping other threads
+2017-09-15 [19:00:18] [Server thread/INFO]: Loading pocketmine.yml...
+2017-09-15 [19:00:18] [Server thread/INFO]: Loading server properties...
+2017-09-15 [19:00:18] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-15 [19:00:18] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.0.31 beta
+2017-09-15 [19:00:18] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-15 [19:00:19] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev "[REDACTED]" (API 3.0.0-ALPHA7)
+2017-09-15 [19:00:19] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-09-15 [19:00:19] [Server thread/INFO]: Loading recipes...
+2017-09-15 [19:00:20] [Server thread/INFO]: Loading resource packs...
+2017-09-15 [19:00:20] [Server thread/INFO]: Preparing level "world"
+2017-09-15 [19:00:20] [Server thread/INFO]: Starting GS4 status listener
+2017-09-15 [19:00:20] [Server thread/INFO]: Setting query port to 19132
+2017-09-15 [19:00:20] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-15 [19:00:20] [Server thread/INFO]: [UPnP] Trying to port forward...
+2017-09-15 [19:00:20] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-15 [19:00:20] [Server thread/INFO]: Done (2.4s)! For help, type "help" or "?"
+2017-09-15 [19:00:35] [Server thread/INFO]: This server is running PocketMine-MP 1.7dev+poggit.1708 「[REDACTED]」 implementing API version 3.0.0-ALPHA7 for Minecraft: PE v1.2.0.31 beta (protocol version 136)
+2017-09-15 [19:02:18] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2017-09-15 [19:02:18] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2017-09-15 [19:02:18] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2017-09-15 [19:02:18] [Server thread/INFO]: /banlist: View all players banned from this server
+2017-09-15 [19:02:18] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2017-09-15 [19:02:18] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2017-09-15 [19:02:18] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2017-09-15 [19:02:18] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2017-09-15 [19:02:18] [Server thread/INFO]: /enchant: Adds enchantments on items
+2017-09-15 [19:02:18] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2017-09-15 [19:02:18] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2017-09-15 [19:02:18] [Server thread/INFO]: /help: Shows the help menu
+2017-09-15 [19:02:19] [Server thread/INFO]: /kick: Removes the specified player from the server
+2017-09-15 [19:02:19] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2017-09-15 [19:02:19] [Server thread/INFO]: /list: Lists all online players
+2017-09-15 [19:02:19] [Server thread/INFO]: /me: Performs the specified action in chat
+2017-09-15 [19:02:19] [Server thread/INFO]: /op: Gives the specified player operator status
+2017-09-15 [19:02:19] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2017-09-15 [19:02:19] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2017-09-15 [19:02:19] [Server thread/INFO]: /particle: Adds particles to a world
+2017-09-15 [19:02:19] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2017-09-15 [19:02:19] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2017-09-15 [19:02:19] [Server thread/INFO]: /save-all: Saves the server to disk
+2017-09-15 [19:02:19] [Server thread/INFO]: /save-off: Disables server autosaving
+2017-09-15 [19:02:19] [Server thread/INFO]: /save-on: Enables server autosaving
+2017-09-15 [19:02:19] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2017-09-15 [19:02:19] [Server thread/INFO]: /seed: Shows the world seed
+2017-09-15 [19:02:19] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2017-09-15 [19:02:19] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2017-09-15 [19:02:19] [Server thread/INFO]: /stop: Stops the server
+2017-09-15 [19:02:19] [Server thread/INFO]: /tell: Sends a private message to the given player
+2017-09-15 [19:02:19] [Server thread/INFO]: /time: Changes the time on each world
+2017-09-15 [19:02:19] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2017-09-15 [19:02:19] [Server thread/INFO]: /title: %pocketmine.command.title.description
+2017-09-15 [19:02:19] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2017-09-15 [19:02:19] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2017-09-15 [19:02:19] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2017-09-15 [19:02:19] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2017-09-15 [19:07:01] [Server thread/INFO]: Loading pocketmine.yml...
+2017-09-15 [19:07:01] [Server thread/INFO]: Loading server properties...
+2017-09-15 [19:07:01] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-15 [19:07:01] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.0.31 beta
+2017-09-15 [19:07:01] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-15 [19:07:03] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev "[REDACTED]" (API 3.0.0-ALPHA7)
+2017-09-15 [19:07:03] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-09-15 [19:07:03] [Server thread/INFO]: Loading recipes...
+2017-09-15 [19:07:04] [Server thread/INFO]: Loading resource packs...
+2017-09-15 [19:07:05] [Server thread/INFO]: Preparing level "world"
+2017-09-15 [19:07:05] [Server thread/INFO]: Starting GS4 status listener
+2017-09-15 [19:07:05] [Server thread/INFO]: Setting query port to 19132
+2017-09-15 [19:07:05] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-15 [19:07:05] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-15 [19:07:05] [Server thread/INFO]: Done (4.603s)! For help, type "help" or "?"
+2017-09-15 [19:09:51] [Server thread/NOTICE]: Player data not found for "jonsnow303al", creating new profile
+2017-09-15 [19:09:55] [Server thread/INFO]: JonSnow303AL[/82.41.40.145:50768] logged in with entity id 1 at (world, 256, 69, 256)
+2017-09-15 [19:10:05] [Server thread/INFO]: JonSnow303AL joined the game
+2017-09-15 [19:10:06] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged in with entity id 2 at (world, 255.42, 69, 256.5174)
+2017-09-15 [19:10:07] [Server thread/INFO]: TumbleGamer joined the game
+2017-09-15 [19:10:30] [Server thread/INFO]: [CONSOLE: Set the time to 0]
+2017-09-15 [19:10:39] [Server thread/INFO]: [CONSOLE: Set the time to 0]
+2017-09-15 [19:10:57] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:11:01] [Server thread/INFO]: JonSnow303AL has just earned the achievement Getting Wood
+2017-09-15 [19:11:50] [Server thread/INFO]: [CONSOLE: Turned on world auto-saving]

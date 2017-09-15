@@ -87,7 +87,6 @@ network:
  async-compression: false
  #Experimental, only for Windows. Tries to use UPnP to automatically port forward
  upnp-forwarding: false
-
 debug:
  #To enable assertion execution, set zend.assertions in your php.ini to 1
  assertions:
