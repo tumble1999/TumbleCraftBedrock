@@ -18,3 +18,6 @@
 2017-09-15 [13:35:04] [Server thread/INFO]: [CONSOLE: Opped tumblegamer]
 2017-09-15 [13:36:37] [Server thread/NOTICE]: Player data not found for "tumblegamer", creating new profile
 2017-09-15 [13:36:45] [Server thread/INFO]: TumbleGamer[/192.168.0.1:60348] logged out due to client disconnect
+2017-09-15 [13:37:02] [Server thread/INFO]: TumbleGamer[/192.168.0.1:60348] logged in with entity id 1 at (world, 256, 69, 256)
+2017-09-15 [13:37:05] [Server thread/INFO]: TumbleGamer joined the game
+2017-09-15 [13:37:12] [Server thread/INFO]: [TumbleGamer: Set own game mode to Creative Mode]
