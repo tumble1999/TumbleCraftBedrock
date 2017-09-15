@@ -458,3 +458,18 @@
 2017-09-15 [20:22:29] [Server thread/WARNING]: TumbleGamer moved wrongly!
 2017-09-15 [20:23:10] [Server thread/INFO]: TumbleGamer left the game
 2017-09-15 [20:23:10] [Server thread/INFO]: TumbleGamer[/192.168.0.51:51359] logged out due to client disconnect
+2017-09-15 [20:33:14] [Server thread/INFO]: Loading pocketmine.yml...
+2017-09-15 [20:33:14] [Server thread/INFO]: Loading server properties...
+2017-09-15 [20:33:14] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-15 [20:33:14] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.0.31 beta
+2017-09-15 [20:33:14] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-15 [20:33:14] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev "[REDACTED]" (API 3.0.0-ALPHA7)
+2017-09-15 [20:33:14] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-09-15 [20:33:15] [Server thread/INFO]: Loading recipes...
+2017-09-15 [20:33:15] [Server thread/INFO]: Loading resource packs...
+2017-09-15 [20:33:16] [Server thread/INFO]: Preparing level "world"
+2017-09-15 [20:33:16] [Server thread/INFO]: Starting GS4 status listener
+2017-09-15 [20:33:16] [Server thread/INFO]: Setting query port to 19132
+2017-09-15 [20:33:16] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-15 [20:33:16] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-15 [20:33:16] [Server thread/INFO]: Done (3.767s)! For help, type "help" or "?"
