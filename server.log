@@ -562,3 +562,41 @@
 2017-09-15 [12:30:17] [Server thread/INFO]: Query running on 0.0.0.0:19132
 2017-09-15 [12:30:17] [Server thread/INFO]: Default game type: Survival Mode
 2017-09-15 [12:30:17] [Server thread/INFO]: Done (3.223s)! For help, type "help" or "?"
+2017-09-15 [12:33:06] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2017-09-15 [12:33:06] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2017-09-15 [12:33:06] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2017-09-15 [12:33:06] [Server thread/INFO]: /banlist: View all players banned from this server
+2017-09-15 [12:33:06] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2017-09-15 [12:33:06] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2017-09-15 [12:33:06] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2017-09-15 [12:33:06] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2017-09-15 [12:33:06] [Server thread/INFO]: /enchant: Adds enchantments on items
+2017-09-15 [12:33:06] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2017-09-15 [12:33:06] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2017-09-15 [12:33:06] [Server thread/INFO]: /help: Shows the help menu
+2017-09-15 [12:33:06] [Server thread/INFO]: /kick: Removes the specified player from the server
+2017-09-15 [12:33:06] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2017-09-15 [12:33:06] [Server thread/INFO]: /list: Lists all online players
+2017-09-15 [12:33:06] [Server thread/INFO]: /me: Performs the specified action in chat
+2017-09-15 [12:33:06] [Server thread/INFO]: /op: Gives the specified player operator status
+2017-09-15 [12:33:06] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2017-09-15 [12:33:06] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2017-09-15 [12:33:06] [Server thread/INFO]: /particle: Adds particles to a world
+2017-09-15 [12:33:06] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2017-09-15 [12:33:06] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2017-09-15 [12:33:06] [Server thread/INFO]: /save-all: Saves the server to disk
+2017-09-15 [12:33:06] [Server thread/INFO]: /save-off: Disables server autosaving
+2017-09-15 [12:33:06] [Server thread/INFO]: /save-on: Enables server autosaving
+2017-09-15 [12:33:06] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2017-09-15 [12:33:06] [Server thread/INFO]: /seed: Shows the world seed
+2017-09-15 [12:33:06] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2017-09-15 [12:33:06] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2017-09-15 [12:33:06] [Server thread/INFO]: /stop: Stops the server
+2017-09-15 [12:33:06] [Server thread/INFO]: /tell: Sends a private message to the given player
+2017-09-15 [12:33:06] [Server thread/INFO]: /time: Changes the time on each world
+2017-09-15 [12:33:06] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2017-09-15 [12:33:06] [Server thread/INFO]: /title: %pocketmine.command.title.description
+2017-09-15 [12:33:06] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2017-09-15 [12:33:06] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2017-09-15 [12:33:06] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2017-09-15 [12:33:06] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
