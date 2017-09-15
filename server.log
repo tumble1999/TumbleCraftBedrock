@@ -39,3 +39,5 @@
 2017-09-15 [13:38:33] [Server thread/INFO]: Unknown command. Try /help for a list of commands
 2017-09-15 [13:38:35] [Server thread/INFO]: Unknown command. Try /help for a list of commands
 2017-09-15 [13:38:58] [Server thread/INFO]: This server is running PocketMine-MP 1.7dev+poggit.1708 「[REDACTED]」 implementing API version 3.0.0-ALPHA7 for Minecraft: PE v1.2.0.31 beta (protocol version 136)
+2017-09-15 [13:54:26] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2017-09-15 [13:54:26] [Server thread/INFO]: Unloading level "world"
