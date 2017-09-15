@@ -33,3 +33,6 @@
 2017-09-15 [13:37:54] [Server thread/WARNING]: TumbleGamer moved too fast, reverting movement
 2017-09-15 [13:38:09] [Server thread/WARNING]: TumbleGamer moved too fast, reverting movement
 2017-09-15 [13:38:09] [Server thread/WARNING]: TumbleGamer moved too fast, reverting movement
+2017-09-15 [13:38:31] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2017-09-15 [13:38:31] [Server thread/INFO]: TumbleGamer left the game
+2017-09-15 [13:38:31] [Server thread/INFO]: TumbleGamer[/192.168.0.1:60348] logged out due to client disconnect
