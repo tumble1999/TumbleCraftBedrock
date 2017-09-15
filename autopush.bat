@@ -1,4 +1,5 @@
 @echo off
+title GitHub Auto Save
 :loop
 ping localhost>nul
 git pull
