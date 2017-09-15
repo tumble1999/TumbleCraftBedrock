@@ -193,3 +193,255 @@
 2017-09-15 [19:12:15] [Server thread/INFO]: TumbleGamer has just earned the achievement Getting Wood
 2017-09-15 [19:13:08] [Server thread/INFO]: <JonSnow303AL> why must we tak in chat
 2017-09-15 [19:13:35] [Server thread/INFO]: <JonSnow303AL> hello
+2017-09-15 [19:14:19] [Server thread/INFO]: <TumbleGamer> are you able to get planks?
+2017-09-15 [19:14:27] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:14:27] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:14:27] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:14:27] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:14:28] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:14:28] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:14:28] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:14:28] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:14:29] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:14:29] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:14:29] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:14:30] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:14:30] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:14:30] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:15:07] [Server thread/WARNING]: TumbleGamer moved wrongly!
+2017-09-15 [19:15:08] [Server thread/WARNING]: TumbleGamer moved wrongly!
+2017-09-15 [19:15:08] [Server thread/WARNING]: TumbleGamer moved wrongly!
+2017-09-15 [19:15:08] [Server thread/WARNING]: TumbleGamer moved wrongly!
+2017-09-15 [19:15:08] [Server thread/WARNING]: TumbleGamer moved wrongly!
+2017-09-15 [19:15:08] [Server thread/WARNING]: TumbleGamer moved wrongly!
+2017-09-15 [19:15:48] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:18:18] [Server thread/INFO]: ---------  Help: /stop ---------
+2017-09-15 [19:18:18] [Server thread/INFO]: Description: Stops the server
+2017-09-15 [19:18:18] [Server thread/INFO]: Usage: /stop
+2017-09-15 [19:18:24] [Server thread/INFO]: ---------  Help: /kick ---------
+2017-09-15 [19:18:24] [Server thread/INFO]: Description: Removes the specified player from the server
+2017-09-15 [19:18:24] [Server thread/INFO]: Usage: /kick <player> [reason ...]
+2017-09-15 [19:18:44] [Server thread/INFO]: That player cannot be found
+2017-09-15 [19:18:54] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:18:55] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:18:55] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:18:55] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:18:56] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:19:00] [Server thread/INFO]: That player cannot be found
+2017-09-15 [19:19:16] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2017-09-15 [19:19:16] [Server thread/INFO]: JonSnow303AL left the game
+2017-09-15 [19:19:16] [Server thread/INFO]: JonSnow303AL[/82.41.40.145:50768] logged out due to Server closed
+2017-09-15 [19:19:16] [Server thread/INFO]: TumbleGamer left the game
+2017-09-15 [19:19:16] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged out due to Server closed
+2017-09-15 [19:19:16] [Server thread/INFO]: Unloading level "world"
+2017-09-15 [19:19:22] [Server thread/INFO]: Stopping other threads
+2017-09-15 [19:19:28] [Server thread/INFO]: Loading pocketmine.yml...
+2017-09-15 [19:19:28] [Server thread/INFO]: Loading server properties...
+2017-09-15 [19:19:28] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-15 [19:19:28] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.0.31 beta
+2017-09-15 [19:19:28] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-15 [19:19:28] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev "[REDACTED]" (API 3.0.0-ALPHA7)
+2017-09-15 [19:19:28] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-09-15 [19:19:28] [Server thread/INFO]: Loading recipes...
+2017-09-15 [19:19:28] [Server thread/INFO]: Loading resource packs...
+2017-09-15 [19:19:28] [Server thread/INFO]: Preparing level "world"
+2017-09-15 [19:19:29] [Server thread/INFO]: Starting GS4 status listener
+2017-09-15 [19:19:29] [Server thread/INFO]: Setting query port to 19132
+2017-09-15 [19:19:29] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-15 [19:19:29] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-15 [19:19:29] [Server thread/INFO]: Done (0.954s)! For help, type "help" or "?"
+2017-09-15 [19:19:59] [Server thread/INFO]: [/82.41.40.145:50768] logged out due to Login timeout
+2017-09-15 [19:20:49] [Server thread/INFO]: JonSnow303AL[/82.41.40.145:50768] logged in with entity id 1 at (world, 247.1561, 69.2522, 237.7)
+2017-09-15 [19:20:50] [Server thread/INFO]: JonSnow303AL joined the game
+2017-09-15 [19:21:32] [Server thread/INFO]: [CONSOLE -> JonSnow303AL] hi
+2017-09-15 [19:21:42] [Server thread/INFO]: [Server] hi
+2017-09-15 [19:21:57] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2017-09-15 [19:21:57] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2017-09-15 [19:21:57] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2017-09-15 [19:21:57] [Server thread/INFO]: /banlist: View all players banned from this server
+2017-09-15 [19:21:57] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2017-09-15 [19:21:57] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2017-09-15 [19:21:57] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2017-09-15 [19:21:57] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2017-09-15 [19:21:57] [Server thread/INFO]: /enchant: Adds enchantments on items
+2017-09-15 [19:21:57] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2017-09-15 [19:21:57] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2017-09-15 [19:21:57] [Server thread/INFO]: /help: Shows the help menu
+2017-09-15 [19:21:57] [Server thread/INFO]: /kick: Removes the specified player from the server
+2017-09-15 [19:21:57] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2017-09-15 [19:21:57] [Server thread/INFO]: /list: Lists all online players
+2017-09-15 [19:21:57] [Server thread/INFO]: /me: Performs the specified action in chat
+2017-09-15 [19:21:57] [Server thread/INFO]: /op: Gives the specified player operator status
+2017-09-15 [19:21:57] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2017-09-15 [19:21:57] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2017-09-15 [19:21:57] [Server thread/INFO]: /particle: Adds particles to a world
+2017-09-15 [19:21:57] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2017-09-15 [19:21:57] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2017-09-15 [19:21:57] [Server thread/INFO]: /save-all: Saves the server to disk
+2017-09-15 [19:21:57] [Server thread/INFO]: /save-off: Disables server autosaving
+2017-09-15 [19:21:57] [Server thread/INFO]: /save-on: Enables server autosaving
+2017-09-15 [19:21:57] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2017-09-15 [19:21:57] [Server thread/INFO]: /seed: Shows the world seed
+2017-09-15 [19:21:57] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2017-09-15 [19:21:57] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2017-09-15 [19:21:57] [Server thread/INFO]: /stop: Stops the server
+2017-09-15 [19:21:57] [Server thread/INFO]: /tell: Sends a private message to the given player
+2017-09-15 [19:21:57] [Server thread/INFO]: /time: Changes the time on each world
+2017-09-15 [19:21:57] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2017-09-15 [19:21:57] [Server thread/INFO]: /title: %pocketmine.command.title.description
+2017-09-15 [19:21:57] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2017-09-15 [19:21:57] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2017-09-15 [19:21:57] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2017-09-15 [19:21:57] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2017-09-15 [19:21:59] [Server thread/INFO]: Usage: %commands.title.usage
+2017-09-15 [19:22:04] [Server thread/INFO]: ---------  Help: /title ---------
+2017-09-15 [19:22:04] [Server thread/INFO]: Description: %pocketmine.command.title.description
+2017-09-15 [19:22:04] [Server thread/INFO]: Usage: %commands.title.usage
+2017-09-15 [19:22:09] [Server thread/INFO]: Usage: %commands.title.usage
+2017-09-15 [19:22:22] [Server thread/INFO]: Usage: %commands.title.usage
+2017-09-15 [19:22:38] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged out due to client disconnect
+2017-09-15 [19:23:09] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2017-09-15 [19:23:10] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged in with entity id 17 at (world, 240.4737, 73, 238.4024)
+2017-09-15 [19:23:11] [Server thread/INFO]: TumbleGamer joined the game
+2017-09-15 [19:23:26] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2017-09-15 [19:23:32] [Server thread/INFO]: [CONSOLE: Opped TumbleGamer]
+2017-09-15 [19:23:39] [Server thread/INFO]: [CONSOLE: Opped JonSnow303AL]
+2017-09-15 [19:23:51] [Server thread/INFO]: [CONSOLE: Turned on world auto-saving]
+2017-09-15 [19:24:08] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2017-09-15 [19:24:11] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2017-09-15 [19:24:12] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2017-09-15 [19:24:12] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2017-09-15 [19:24:12] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2017-09-15 [19:24:12] [Server thread/INFO]: /banlist: View all players banned from this server
+2017-09-15 [19:24:12] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2017-09-15 [19:24:12] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2017-09-15 [19:24:12] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2017-09-15 [19:24:12] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2017-09-15 [19:24:12] [Server thread/INFO]: /enchant: Adds enchantments on items
+2017-09-15 [19:24:12] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2017-09-15 [19:24:12] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2017-09-15 [19:24:12] [Server thread/INFO]: /help: Shows the help menu
+2017-09-15 [19:24:12] [Server thread/INFO]: /kick: Removes the specified player from the server
+2017-09-15 [19:24:12] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2017-09-15 [19:24:12] [Server thread/INFO]: /list: Lists all online players
+2017-09-15 [19:24:12] [Server thread/INFO]: /me: Performs the specified action in chat
+2017-09-15 [19:24:12] [Server thread/INFO]: /op: Gives the specified player operator status
+2017-09-15 [19:24:12] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2017-09-15 [19:24:12] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2017-09-15 [19:24:12] [Server thread/INFO]: /particle: Adds particles to a world
+2017-09-15 [19:24:12] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2017-09-15 [19:24:12] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+2017-09-15 [19:24:12] [Server thread/INFO]: /save-all: Saves the server to disk
+2017-09-15 [19:24:12] [Server thread/INFO]: /save-off: Disables server autosaving
+2017-09-15 [19:24:12] [Server thread/INFO]: /save-on: Enables server autosaving
+2017-09-15 [19:24:12] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2017-09-15 [19:24:12] [Server thread/INFO]: /seed: Shows the world seed
+2017-09-15 [19:24:12] [Server thread/INFO]: /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2017-09-15 [19:24:12] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2017-09-15 [19:24:12] [Server thread/INFO]: /stop: Stops the server
+2017-09-15 [19:24:12] [Server thread/INFO]: /tell: Sends a private message to the given player
+2017-09-15 [19:24:12] [Server thread/INFO]: /time: Changes the time on each world
+2017-09-15 [19:24:12] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2017-09-15 [19:24:12] [Server thread/INFO]: /title: %pocketmine.command.title.description
+2017-09-15 [19:24:12] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2017-09-15 [19:24:12] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2017-09-15 [19:24:13] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2017-09-15 [19:24:13] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2017-09-15 [19:24:25] [Server thread/INFO]: * TumbleGamer hi
+2017-09-15 [19:24:48] [Server thread/INFO]: TumbleGamer left the game
+2017-09-15 [19:24:48] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged out due to Kicked by admin.
+2017-09-15 [19:24:48] [Server thread/INFO]: [CONSOLE: Kicked TumbleGamer from the game]
+2017-09-15 [19:25:10] [Server thread/INFO]: JonSnow303AL left the game
+2017-09-15 [19:25:10] [Server thread/INFO]: JonSnow303AL[/82.41.40.145:50768] logged out due to Kicked by admin. Reason: aaaaahhhh
+2017-09-15 [19:25:10] [Server thread/INFO]: [CONSOLE: Kicked JonSnow303AL from the game: 'aaaaahhhh']
+2017-09-15 [19:27:06] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2017-09-15 [19:27:13] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2017-09-15 [19:27:22] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged out due to client disconnect
+2017-09-15 [19:27:37] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged in with entity id 32 at (world, 255.4521, 72, 240.5503)
+2017-09-15 [19:27:38] [Server thread/INFO]: TumbleGamer joined the game
+2017-09-15 [19:28:17] [Server thread/INFO]: JonSnow303AL[/82.41.40.145:64508] logged in with entity id 33 at (world, 240.9969, 77, 249.8486)
+2017-09-15 [19:28:19] [Server thread/INFO]: JonSnow303AL joined the game
+2017-09-15 [19:28:57] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:29:29] [Server thread/INFO]: That player cannot be found
+2017-09-15 [19:30:00] [Server thread/INFO]: [CONSOLE: Given Bed (355:0) * 1 to JonSnow303AL]
+2017-09-15 [19:30:14] [Server thread/INFO]: [CONSOLE: Given Still Lava (11:0) * 64 to JonSnow303AL]
+2017-09-15 [19:30:37] [Server thread/INFO]: There is no such item with name air
+2017-09-15 [19:30:52] [Server thread/INFO]: [CONSOLE: Given Mob Head (397:0) * 64 to JonSnow303AL]
+2017-09-15 [19:30:52] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:30:59] [Server thread/INFO]: [CONSOLE: Given Still Water (9:0) * 64 to JonSnow303AL]
+2017-09-15 [19:31:06] [Server thread/INFO]: JonSnow303AL went up in flames
+2017-09-15 [19:31:27] [Server thread/INFO]: [CONSOLE: Given Dead Bush (32:0) * 64 to JonSnow303AL]
+2017-09-15 [19:31:55] [Server thread/INFO]: TumbleGamer tried to swim in lava
+2017-09-15 [19:32:11] [Server thread/INFO]: [CONSOLE: Teleported JonSnow303AL to 247.3, 177, 243.8]
+2017-09-15 [19:32:15] [Server thread/INFO]: JonSnow303AL tried to swim in lava
+2017-09-15 [19:32:26] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:32:33] [Server thread/INFO]: [CONSOLE: Teleported TumbleGamer to 246.65, 177, 252.43]
+2017-09-15 [19:32:36] [Server thread/INFO]: TumbleGamer fell from a high place
+2017-09-15 [19:33:12] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:33:19] [Server thread/INFO]: [CONSOLE: Given Fire Block (51:0) * 64 to JonSnow303AL]
+2017-09-15 [19:33:40] [Server thread/INFO]: There is no such item with name piston_arm
+2017-09-15 [19:33:43] [Server thread/INFO]: There is no such item with name piston_head
+2017-09-15 [19:33:50] [Server thread/INFO]: [CONSOLE: Given Mob Head (397:0) * 64 to JonSnow303AL]
+2017-09-15 [19:34:07] [Server thread/WARNING]: JonSnow303AL moved wrongly!
+2017-09-15 [19:34:23] [Server thread/INFO]: There is no such item with name soal_sand
+2017-09-15 [19:34:30] [Server thread/INFO]: There is no such item with name soal_sand
+2017-09-15 [19:34:35] [Server thread/INFO]: There is no such item with name sole_sand
+2017-09-15 [19:34:38] [Server thread/INFO]: There is no such item with name soale_sand
+2017-09-15 [19:35:06] [Server thread/INFO]: <TumbleGamer> ./give @s lava
+2017-09-15 [19:35:15] [Server thread/INFO]: [TumbleGamer] hi
+2017-09-15 [19:35:44] [Server thread/INFO]: TumbleGamer tried to swim in lava
+2017-09-15 [19:35:51] [Server thread/INFO]: [CONSOLE: Teleported JonSnow303AL to 226.28, 167, 244.61]
+2017-09-15 [19:35:51] [Server thread/INFO]: JonSnow303AL went up in flames
+2017-09-15 [19:35:57] [Server thread/INFO]: [CONSOLE: Teleported JonSnow303AL to 252.51, -29.75, 256.23]
+2017-09-15 [19:35:57] [Server thread/INFO]: JonSnow303AL fell out of the world
+2017-09-15 [19:36:01] [Server thread/INFO]: [CONSOLE: Teleported JonSnow303AL to 251.97, -29.98, 256.3]
+2017-09-15 [19:36:02] [Server thread/INFO]: JonSnow303AL fell out of the world
+2017-09-15 [19:36:03] [Server thread/INFO]: [CONSOLE: Teleported JonSnow303AL to 251.49, -139.64, 254.79]
+2017-09-15 [19:36:03] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:36:03] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:36:03] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:36:12] [Server thread/INFO]: [CONSOLE: Teleported JonSnow303AL to 255.3, 1068, 255.7]
+2017-09-15 [19:36:20] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:36:20] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:36:20] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:36:20] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:36:20] [Server thread/INFO]: JonSnow303AL left the game
+2017-09-15 [19:36:20] [Server thread/INFO]: JonSnow303AL[/82.41.40.145:64508] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-09-15 [19:36:36] [Server thread/INFO]: [/82.41.40.145:64508] logged out due to Login timeout
+2017-09-15 [19:37:04] [Server thread/INFO]: [CONSOLE: Banned player jonsnow303al]
+2017-09-15 [19:37:20] [Server thread/INFO]: [CONSOLE: Unbanned player jonsnow303al]
+2017-09-15 [19:37:44] [Server thread/WARNING]: TumbleGamer moved wrongly!
+2017-09-15 [19:38:44] [Server thread/INFO]: TumbleGamer left the game
+2017-09-15 [19:38:44] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged out due to client disconnect
+2017-09-15 [19:39:29] [Server thread/INFO]: JonSnow303AL[/82.41.40.145:49628] logged in with entity id 110 at (world, 255.3195, 714.6512, 255.7024)
+2017-09-15 [19:39:30] [Server thread/INFO]: JonSnow303AL joined the game
+2017-09-15 [19:39:36] [Server thread/INFO]: TumbleGamer[/192.168.0.1:64191] logged in with entity id 114 at (world, 243.6798, 77, 252.8568)
+2017-09-15 [19:39:37] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:39:37] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:39:37] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:39:37] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:39:37] [Server thread/INFO]: TumbleGamer joined the game
+2017-09-15 [19:39:43] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:39:43] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:39:43] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:39:43] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:39:43] [Server thread/WARNING]: JonSnow303AL moved too fast, reverting movement
+2017-09-15 [19:39:43] [Server thread/INFO]: JonSnow303AL left the game
+2017-09-15 [19:39:43] [Server thread/INFO]: JonSnow303AL[/82.41.40.145:49628] logged out due to Kicked by admin. Reason: Flying is not enabled on this server
+2017-09-15 [19:40:27] [Server thread/INFO]: Loading pocketmine.yml...
+2017-09-15 [19:40:27] [Server thread/INFO]: Loading server properties...
+2017-09-15 [19:40:27] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-15 [19:40:27] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.0.31 beta
+2017-09-15 [19:40:28] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-15 [19:40:28] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev "[REDACTED]" (API 3.0.0-ALPHA7)
+2017-09-15 [19:40:28] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-09-15 [19:40:30] [Server thread/INFO]: Loading recipes...
+2017-09-15 [19:40:30] [Server thread/INFO]: Loading resource packs...
+2017-09-15 [19:40:30] [Server thread/NOTICE]: Level "world" not found
+2017-09-15 [19:40:30] [Server thread/INFO]: Preparing level "world"
+2017-09-15 [19:40:30] [Server thread/NOTICE]: Spawn terrain for level "world" is being generated in the background
+2017-09-15 [19:40:31] [Server thread/INFO]: Starting GS4 status listener
+2017-09-15 [19:40:31] [Server thread/INFO]: Setting query port to 19132
+2017-09-15 [19:40:31] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-15 [19:40:31] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-15 [19:40:31] [Server thread/INFO]: Done (3.984s)! For help, type "help" or "?"
