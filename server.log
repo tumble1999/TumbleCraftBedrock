@@ -21,3 +21,5 @@
 2017-09-15 [13:37:02] [Server thread/INFO]: TumbleGamer[/192.168.0.1:60348] logged in with entity id 1 at (world, 256, 69, 256)
 2017-09-15 [13:37:05] [Server thread/INFO]: TumbleGamer joined the game
 2017-09-15 [13:37:12] [Server thread/INFO]: [TumbleGamer: Set own game mode to Creative Mode]
+2017-09-15 [13:37:32] [Server thread/WARNING]: TumbleGamer moved too fast, reverting movement
+2017-09-15 [13:37:47] [Server thread/WARNING]: TumbleGamer moved too fast, reverting movement
