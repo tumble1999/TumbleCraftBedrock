@@ -1,30 +1,37 @@
 @echo off
+set status=git statis -s
+set fetch=git fetch
+set add=git add
+set commit=git commit
+set pull=git pull
+set push=git push
+
 title GitHub Auto Save
 :loop
 ping localhost>nul
-git status
+%status%
 echo FETCHING...
-git fetch
+%fetch%
 echo.
 echo.
-git status
+%status%
 echo ADDING...
-git add .
+%add% .
 echo.
 echo.
-git status
+%status%
 echo COMMITING...
-git commit -m "server auto-save"
+%commit% -m "server auto-save"
 echo.
 echo.
-git status
+%status%
 echo PULLING
-git pull
+%pull%
 echo.
 echo.
-git status
+%status%
 echo PUSHING...
-git push
+%push%
 echo.
 echo.
 goto :loop
