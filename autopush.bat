@@ -1,4 +1,4 @@
-rem @echo off
+@echo off
 set status=git status -s
 set fetch="git fetch
 set add=git add
