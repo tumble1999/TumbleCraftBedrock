@@ -509,3 +509,78 @@
 2017-09-15 [20:48:45] [Server thread/INFO]: TumbleGamer left the game
 2017-09-15 [20:48:45] [Server thread/INFO]: TumbleGamer[/192.168.0.49:46238] logged out due to timeout
 2017-09-16 [10:07:18] [Server thread/INFO]: TumbleGamer[/192.168.0.1:58845] logged out due to client disconnect
+2017-09-16 [11:53:45] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2017-09-16 [11:53:45] [Server thread/INFO]: Unloading level "world"
+2017-09-16 [11:53:51] [Server thread/INFO]: Stopping other threads
+2017-09-16 [11:53:58] [Server thread/INFO]: Loading pocketmine.yml...
+2017-09-16 [11:53:58] [Server thread/INFO]: Loading server properties...
+2017-09-16 [11:53:58] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-16 [11:53:58] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.0.31 beta
+2017-09-16 [11:53:58] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-16 [11:53:58] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev "[REDACTED]" (API 3.0.0-ALPHA7)
+2017-09-16 [11:53:58] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-09-16 [11:53:59] [Server thread/INFO]: Loading recipes...
+2017-09-16 [11:53:59] [Server thread/INFO]: Loading resource packs...
+2017-09-16 [11:53:59] [Server thread/INFO]: Preparing level "world"
+2017-09-16 [11:53:59] [Server thread/INFO]: Starting GS4 status listener
+2017-09-16 [11:53:59] [Server thread/INFO]: Setting query port to 19132
+2017-09-16 [11:53:59] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-16 [11:53:59] [Server thread/INFO]: [UPnP] Trying to port forward...
+2017-09-16 [11:53:59] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-16 [11:53:59] [Server thread/INFO]: Done (1.529s)! For help, type "help" or "?"
+2017-09-16 [11:56:20] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2017-09-16 [11:56:20] [Server thread/INFO]: Unloading level "world"
+2017-09-16 [11:56:20] [Server thread/INFO]: Stopping other threads
+2017-09-16 [11:56:26] [Server thread/INFO]: Loading pocketmine.yml...
+2017-09-16 [11:56:26] [Server thread/INFO]: Loading server properties...
+2017-09-16 [11:56:26] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-16 [11:56:26] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.0.31 beta
+2017-09-16 [11:56:26] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-16 [11:56:26] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev "[REDACTED]" (API 3.0.0-ALPHA7)
+2017-09-16 [11:56:26] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-09-16 [11:56:26] [Server thread/INFO]: Loading recipes...
+2017-09-16 [11:56:26] [Server thread/INFO]: Loading resource packs...
+2017-09-16 [11:56:26] [Server thread/INFO]: Preparing level "world"
+2017-09-16 [11:56:27] [Server thread/INFO]: Starting GS4 status listener
+2017-09-16 [11:56:27] [Server thread/INFO]: Setting query port to 19132
+2017-09-16 [11:56:27] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-16 [11:56:27] [Server thread/INFO]: [UPnP] Trying to port forward...
+2017-09-16 [11:56:27] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-16 [11:56:27] [Server thread/INFO]: Done (1.703s)! For help, type "help" or "?"
+2017-09-16 [11:56:54] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+2017-09-16 [11:56:57] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2017-09-16 [11:56:57] [Server thread/INFO]: Unloading level "world"
+2017-09-16 [11:57:02] [Server thread/INFO]: Stopping other threads
+2017-09-16 [11:57:08] [Server thread/INFO]: Loading pocketmine.yml...
+2017-09-16 [11:57:08] [Server thread/INFO]: Loading server properties...
+2017-09-16 [11:57:08] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-16 [11:57:08] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.0.31 beta
+2017-09-16 [11:57:08] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-16 [11:57:08] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev "[REDACTED]" (API 3.0.0-ALPHA7)
+2017-09-16 [11:57:08] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-09-16 [11:57:08] [Server thread/INFO]: Loading recipes...
+2017-09-16 [11:57:09] [Server thread/INFO]: Loading resource packs...
+2017-09-16 [11:57:09] [Server thread/INFO]: Preparing level "world"
+2017-09-16 [11:57:09] [Server thread/INFO]: Starting GS4 status listener
+2017-09-16 [11:57:09] [Server thread/INFO]: Setting query port to 19132
+2017-09-16 [11:57:09] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-16 [11:57:09] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-16 [11:57:09] [Server thread/INFO]: Done (1.54s)! For help, type "help" or "?"
+2017-09-16 [12:01:35] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2017-09-16 [12:01:35] [Server thread/INFO]: Unloading level "world"
+2017-09-16 [12:01:40] [Server thread/INFO]: Stopping other threads
+2017-09-16 [12:01:45] [Server thread/INFO]: Loading pocketmine.yml...
+2017-09-16 [12:01:45] [Server thread/INFO]: Loading server properties...
+2017-09-16 [12:01:45] [Server thread/INFO]: Selected English (eng) as the base language
+2017-09-16 [12:01:45] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.0.31 beta
+2017-09-16 [12:01:45] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2017-09-16 [12:01:45] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev "[REDACTED]" (API 3.0.0-ALPHA7)
+2017-09-16 [12:01:45] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2017-09-16 [12:01:46] [Server thread/INFO]: Loading recipes...
+2017-09-16 [12:01:46] [Server thread/INFO]: Loading resource packs...
+2017-09-16 [12:01:46] [Server thread/INFO]: Preparing level "world"
+2017-09-16 [12:01:46] [Server thread/INFO]: Starting GS4 status listener
+2017-09-16 [12:01:46] [Server thread/INFO]: Setting query port to 19132
+2017-09-16 [12:01:46] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2017-09-16 [12:01:46] [Server thread/INFO]: Default game type: Survival Mode
+2017-09-16 [12:01:46] [Server thread/INFO]: Done (1.123s)! For help, type "help" or "?"
