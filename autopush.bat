@@ -1,5 +1,5 @@
 @echo off
-set status=git statis -s
+set status=git status -s
 set fetch=git fetch
 set add=git add
 set commit=git commit
