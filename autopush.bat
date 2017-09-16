@@ -2,7 +2,11 @@
 :loop
 
 title GitHub Auto Save
-set status=git status
+set status=(
+git status
+echo #
+git status -s
+)
 set fetch=git fetch
 set add=git add
 set commit=git commit
@@ -11,8 +15,6 @@ set push=git push
 
 ping localhost>nul
 %status%
-echo #
-%status% -s
 echo FETCHING...
 %fetch%
 echo.
