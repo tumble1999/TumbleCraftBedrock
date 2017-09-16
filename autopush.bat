@@ -1,6 +1,6 @@
 @echo off
-set status=git status -s
-set fetch="git fetch
+set status=git status
+set fetch=git fetch
 set add=git add
 set commit=git commit
 set pull=git pull
