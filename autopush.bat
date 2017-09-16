@@ -11,6 +11,8 @@ set push=git push
 
 ping localhost>nul
 %status%
+echo #
+%status% -s
 echo FETCHING...
 %fetch%
 echo.
