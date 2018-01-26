@@ -1,3 +1,0 @@
-# Updated 09/15/17 19:37 by PocketMine-MP 1.7dev+poggit.1708
-# victim name | ban date | banned by | banned until | reason
-
