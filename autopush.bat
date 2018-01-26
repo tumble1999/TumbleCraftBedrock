@@ -1,12 +1,8 @@
-@echo off
-:loop
 
+@:loop
+@echo on
 title GitHub Auto Save
-set status=(
-git status
-echo #
-git status -s
-)
+set status=git status
 set fetch=git fetch
 set add=git add
 set commit=git commit
