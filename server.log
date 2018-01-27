@@ -71,3 +71,5 @@
 2018-01-27 [23:08:30] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
 2018-01-27 [23:08:35] [Server thread/INFO]: Unknown command. Try /help for a list of commands
 2018-01-27 [23:08:41] [Server thread/INFO]: [CONSOLE: Turned on world auto-saving]
+2018-01-27 [23:08:50] [Server thread/INFO]: [CONSOLE: Saving...]
+2018-01-27 [23:08:50] [Server thread/INFO]: [CONSOLE: Saved the world]
