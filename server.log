@@ -113,3 +113,5 @@
 2018-01-27 [23:10:57] [Server thread/INFO]: /transferserver: Transfer yourself to another server
 2018-01-27 [23:10:57] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
 2018-01-27 [23:10:57] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2018-01-27 [23:11:57] [Server thread/INFO]: TumbleGamer died
+2018-01-27 [23:11:57] [Server thread/INFO]: [CONSOLE: Killed TumbleGamer]
