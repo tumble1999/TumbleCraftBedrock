@@ -20,3 +20,9 @@
 2018-01-27 [23:02:08] [Server thread/INFO]: JonSnow303AL[/25.94.233.100:54441] logged out due to Server is white-listed
 2018-01-27 [23:02:32] [Server thread/INFO]: [CONSOLE: Added JonSnow303AL to the whitelist]
 2018-01-27 [23:02:38] [Server thread/INFO]: [CONSOLE: Added TumbleGamer to the whitelist]
+2018-01-27 [23:02:57] [Server thread/NOTICE]: Player data not found for "jonsnow303al", creating new profile
+2018-01-27 [23:02:59] [Server thread/NOTICE]: Player data not found for "tumblegamer", creating new profile
+2018-01-27 [23:03:02] [Server thread/INFO]: JonSnow303AL[/25.94.233.100:54441] logged in with entity id 1 at (world, 256, 68, 256)
+2018-01-27 [23:03:03] [Server thread/INFO]: TumbleGamer[/25.94.230.58:64934] logged in with entity id 2 at (world, 256, 68, 256)
+2018-01-27 [23:03:06] [Server thread/INFO]: JonSnow303AL joined the game
+2018-01-27 [23:03:10] [Server thread/INFO]: TumbleGamer joined the game
