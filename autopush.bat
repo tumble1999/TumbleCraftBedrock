@@ -1,6 +1,6 @@
 
 @:loop
-@echo on
+@echo off
 title GitHub Auto Save
 set status=git status
 set fetch=git fetch
