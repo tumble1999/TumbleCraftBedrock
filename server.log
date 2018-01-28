@@ -325,3 +325,10 @@
 2018-01-28 [01:43:55] [Server thread/INFO]: Query running on 0.0.0.0:19132
 2018-01-28 [01:43:55] [Server thread/INFO]: Default game type: Survival Mode
 2018-01-28 [01:43:55] [Server thread/INFO]: Done (2.149s)! For help, type "help" or "?"
+2018-01-28 [15:37:38] [Server thread/INFO]: Loading pocketmine.yml...
+2018-01-28 [15:37:38] [Server thread/INFO]: Loading server properties...
+2018-01-28 [15:37:38] [Server thread/INFO]: Selected English (eng) as the base language
+2018-01-28 [15:37:38] [Server thread/INFO]: Starting Minecraft: PE server version v1.2.7
+2018-01-28 [15:37:38] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2018-01-28 [15:37:38] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2018-01-28 [15:37:38] [Server thread/INFO]: Opening server on 0.0.0.0:19132
