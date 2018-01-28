@@ -300,3 +300,5 @@
 2018-01-28 [00:57:31] [Server thread/INFO]: TumbleGamer[/25.94.230.58:64934] logged out due to timeout
 2018-01-28 [00:57:54] [Server thread/INFO]: TumbleGamer[/25.94.230.58:64934] logged in with entity id 1284 at (world, 207.9891, 72, 298.6745)
 2018-01-28 [00:57:56] [Server thread/INFO]: TumbleGamer joined the game
+2018-01-28 [01:00:04] [Server thread/INFO]: TumbleGamer left the game
+2018-01-28 [01:00:04] [Server thread/INFO]: TumbleGamer[/25.94.230.58:64934] logged out due to client disconnect
