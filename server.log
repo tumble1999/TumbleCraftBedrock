@@ -291,3 +291,5 @@
 2018-01-28 [00:53:27] [Server thread/INFO]: /transferserver: Transfer yourself to another server
 2018-01-28 [00:53:27] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
 2018-01-28 [00:53:27] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2018-01-28 [00:53:43] [Server thread/INFO]: * CONSOLE test
+2018-01-28 [00:53:58] [Server thread/INFO]: [Server] /give jonsnow303al stone_sword 5
