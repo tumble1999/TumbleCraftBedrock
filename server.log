@@ -470,3 +470,5 @@
 2018-02-20 [16:23:06] [Server thread/INFO]: Query running on 0.0.0.0:19132
 2018-02-20 [16:23:06] [Server thread/INFO]: Default game type: Survival Mode
 2018-02-20 [16:23:06] [Server thread/INFO]: Done (0.659s)! For help, type "help" or "?"
+2018-02-20 [16:23:51] [Server thread/INFO]: Usage: /whitelist <on|off|list|add|remove|reload>
+2018-02-20 [16:23:54] [Server thread/INFO]: [CONSOLE: Turned on the whitelist]
