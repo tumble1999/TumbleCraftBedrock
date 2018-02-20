@@ -501,3 +501,13 @@
 2018-02-20 [16:25:34] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
 2018-02-20 [16:25:34] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
 2018-02-20 [16:25:34] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2018-02-20 [16:25:34] [Server thread/INFO]: This server is running PocketMine-MP version 1.7dev-743 "[REDACTED]" (API 3.0.0-ALPHA11)
+2018-02-20 [16:25:34] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2018-02-20 [16:25:34] [Server thread/INFO]: Loading recipes...
+2018-02-20 [16:25:34] [Server thread/INFO]: Loading resource packs...
+2018-02-20 [16:25:35] [Server thread/INFO]: Preparing level "test"
+2018-02-20 [16:25:35] [Server thread/INFO]: Starting GS4 status listener
+2018-02-20 [16:25:35] [Server thread/INFO]: Setting query port to 19132
+2018-02-20 [16:25:35] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2018-02-20 [16:25:35] [Server thread/INFO]: Default game type: Survival Mode
+2018-02-20 [16:25:35] [Server thread/INFO]: Done (0.585s)! For help, type "help" or "?"
